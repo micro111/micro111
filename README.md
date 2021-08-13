@@ -27,12 +27,12 @@ But windows bat solved it effortlessly! Yay!]
   &nbsp; &nbsp; &nbsp;This is a site that uses the Bin method for transferring data from HTML to the server.
 I built it myself for speed, but it's slower than a turtle over a WAN, seriously.   
   ・Node Chat Web site (Node.js,HTML)     
-  &nbsp; &nbsp; &nbsp; This is a site where multiple people can chat in real time. Now you can chat with your friends during class.Yay!
+  &nbsp; &nbsp; &nbsp; This is a site where multiple people can chat in real time. Now you can chat with your friends during class.Yay!  
   ・Node Web site (Node.js,HTML,CSS)    
  &nbsp;  &nbsp; &nbsp;  You can watch the news in real time and see today's weather.
 There is no demand for it.   
      
-  ・I forgot later (´ ﾟ д ﾟ ｀)    
+  ・I forget the rest. (´ ﾟ д ﾟ ｀)    
 
   
 
