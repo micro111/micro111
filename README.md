@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/micro111/count.svg)
-
 # What’s Name?
  **I'm micro :) , 20years old!**
  
@@ -54,3 +52,5 @@ Video editors will be crying for joy, won't they, right?
  
 # Twitter
  Please feel free to come and talk to me...! hahaha![https://twitter.com/micro_bffc]
+
+![Visitor Count](https://profile-counter.glitch.me/micro111/count.svg)
