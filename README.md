@@ -1,6 +1,10 @@
 # What’s Name?
  **I'm micro :) , 20years old!**
- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micro111)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micro111)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Programming language I use  
   "Language [Purpose of use]"
   
@@ -16,7 +20,6 @@
    &nbsp; &nbsp; &nbsp;[ I had to manually install drivers on over 40 machines. At one point I had to manually add 3 accounts to each of 30 machines. Pien (´´ω´´).
 But windows bat solved it effortlessly! Yay!]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micro111)](https://github.com/anuraghazra/github-readme-stats)
 # Things I've made so far   
   ・Discord Music Bot (Python || Node.js)  
   &nbsp; &nbsp; &nbsp; Cast the sound source from youtube.   
@@ -53,5 +56,3 @@ Video editors will be crying for joy, won't they, right?
  
 # Twitter
  Please feel free to come and talk to me...! hahaha![https://twitter.com/micro_bffc]
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micro111)](https://github.com/anuraghazra/github-readme-stats)
