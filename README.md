@@ -56,3 +56,5 @@ Video editors will be crying for joy, won't they, right?
  
 # Twitter
  Please feel free to come and talk to me...! hahaha![https://twitter.com/micro_bffc]
+ 
+ ![Counter](https://profile-counter.glitch.me/micro111/count.svg)
